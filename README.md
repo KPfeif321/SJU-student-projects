@@ -1,1 +1,1 @@
-# SJU-student-projects
+# student-projects
